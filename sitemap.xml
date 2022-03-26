@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.google.com/schemas/sitemap/0.84">
+<url>
+<loc>https://www.service-home.com.ar/index.html</loc>
+<lastmod>120/03/2022</lastmod>
+<changefreq>weekly</changefreq>
+<priority>1.0</priority>
+</url>
+<url>
+<loc>https://www.service-home.com.ar/servicios.html</loc>
+<lastmod>20/03/2022</lastmod>
+<changefreq>monthly</changefreq>
+<priority>0.9</priority>
+</url>
+<url>
+<loc>https://www.service-home.com.ar/galeria.html</loc>
+<lastmod>20/03/2022</lastmod>
+<changefreq>monthly</changefreq>
+<priority>0.8</priority>
+</url>
+</urlset>
+<url>
+<loc>https://www.service-home.com.ar/consejos.html</loc>
+<lastmod>20/03/2022</lastmod>
+<changefreq>monthly</changefreq>
+<priority>0.8</priority>
+</url>
+</urlset>
+<url>
+<loc>https://www.service-home.com.ar/contacto.html</loc>
+<lastmod>20/03/2022</lastmod>
+<changefreq>monthly</changefreq>
+<priority>0.8</priority>
+</url>
+</urlset>
